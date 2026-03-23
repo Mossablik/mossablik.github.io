@@ -1,10 +1,11 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
+title: ♛ 𝕸𝖔𝖘𝖘𝖆𝖇 # name of the site
+author: MossabLike4 # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: mossablik.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  <p> <span style="color: #FFFFFF; font-size: 1.7em;">𝕷𝖎 𝖜𝟗𝖊𝖋 𝟑𝖑𝖞𝖆 𝖜 𝖇𝖌𝖍𝖆𝖓𝖎 𝖓𝖋𝖎𝖉𝖔, 𝖙𝖆𝖞𝖑𝟗𝖆𝖓𝖎 𝖕𝖗𝖊𝖘𝖙𝖔 𝖎𝖑𝖑𝖎𝖈𝖔</span> <br> Here's my only real address <br> I'm a student interested in all things related to technology, especially Linux, such as experimenting with distributions, playing games, learning programming, and trying to create projects. <br>  <br> > doing a retreat in Las vegas <br>  <br> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☢ </span> </span>  <a href="https://open.spotify.com/user/31iomrc3k4v4dsyab4duek3k4fvy" style="color: #FFFFFF;">
+    <span style="color: #FFFFFF; font-size:2.5em; font-weight:700;" >  listen to my playlists </span> </a> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☢ </span> </span> <br> <br> interest : Linux, computer arch, gamming, pixelart, music, arts, learning... <br> <br> enter my world : Assassin’s Creed, Stardew Valley, Efootball, Grand Theft Auto: San Andreas, Mta:SA, CS:GO, Valorant, Papers Please <br> <br> pure hate : anti cheat kernel, windows11, advertising, 2-factor authentication, subscription culture and Microsoft   <br> </p>
 
 permalink: /:slug.html
 
@@ -14,10 +15,10 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
   lowercase_titles: true # show titles in lowercase in lists
 
 sass:
